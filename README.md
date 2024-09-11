@@ -1,4 +1,6 @@
-## Hi there 👋
+## Haris is here!👋
+
+https://readme-typing-svg.herokuapp.com/demo/?duration=2000&random=true&lines=Halo!;Hello!;Ciao!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;N%C7%90+h%C7%8Eo;%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%8B;Hola!;Bonjour!;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Salom
 
 <!--
 **harisblablabla/harisblablabla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
