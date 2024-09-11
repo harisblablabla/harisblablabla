@@ -10,10 +10,8 @@
 
 ## Reach me in
 <a href="https://www.linkedin.com/in/harris-fadhilah/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin" /></a>
-<a href="https://www.linkedin.com/in/harris-fadhilah/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium" /></a>
+<a href="https://medium.com/@haris.fadhilah21" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium" /></a>
 <a href="https://www.instagram.com/in/harriissf/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram" /></a>
-
-[![Harris Fadhilah 's GitHub stats](https://github-readme-stats.vercel.app/api?username=harisblablabla&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
