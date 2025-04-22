@@ -4,7 +4,7 @@
 
 - ❄️ Interested in React, NextJs, Typescript, Swift UI, UI Design!
 - 🍎 Apple Developer Academy Graduate
-- 🔭 Currently working as a Fullstack Engineer on Tower Bersama Group
+- 🔭 Currently working as a Fullstack Engineer on Tower Bersama Group (TBIG.JK)
 - 👯 Looking to collaborate on freelance project/fulltime remote working
 - 💬 Ask me about Programming, Financial Planning, One Piece👀
 
